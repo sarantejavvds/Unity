@@ -1,0 +1,395 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.41f1 (0f988161febf) revision 1022081'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.18363) 64bit Professional' Language: 'en' Physical Memory: 3981 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.41f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/F/0_Room/Unity_3D/0_Unity_Projects/00_Unity_with_C#_Scripting/Unity_C#_Scripting_3D/From_Udemy/Obstacle_Dodger_Game/Obstacle_Dodger
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62873
+Successfully changed project path to: D:/F/0_Room/Unity_3D/0_Unity_Projects/00_Unity_with_C#_Scripting/Unity_C#_Scripting_3D/From_Udemy/Obstacle_Dodger_Game/Obstacle_Dodger
+D:/F/0_Room/Unity_3D/0_Unity_Projects/00_Unity_with_C#_Scripting/Unity_C#_Scripting_3D/From_Udemy/Obstacle_Dodger_Game/Obstacle_Dodger
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [16320]  Target information:
+
+Player connection [16320]  * "[IP] 192.168.1.5 [Port] 0 [Flags] 2 [Guid] 2491297665 [EditorId] 2491297665 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-2ROPMHT) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [16320] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [16320] Host joined alternative multi-casting on [225.0.0.222:34997]...
+[PhysX] Initialized MultithreadedTaskDispatcher with 2 workers.
+Refreshing native plugins compatible for Editor in 170.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.41f1 (0f988161febf)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.41f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/F/0_Room/Unity_3D/0_Unity_Projects/00_Unity_with_C#_Scripting/Unity_C#_Scripting_3D/From_Udemy/Obstacle_Dodger_Game/Obstacle_Dodger/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) R2 Graphics (ID=0x98e4)
+    Vendor:   ATI
+    VRAM:     1990 MB
+    Driver:   26.20.11008.1007
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.41f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.41f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.41f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56376
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.41f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.080734 seconds.
+- Loaded All Assemblies, in  3.599 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.158 seconds
+Domain Reload Profiling: 8303ms
+	BeginReloadAssembly (996ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (4ms)
+	RebuildCommonClasses (284ms)
+	RebuildNativeTypeToScriptingClass (77ms)
+	initialDomainReloadingComplete (564ms)
+	LoadAllAssembliesAndSetupDomain (1658ms)
+		LoadAssemblies (989ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1640ms)
+			TypeCache.Refresh (1628ms)
+				TypeCache.ScanAssembly (1512ms)
+			ScanForSourceGeneratedMonoScriptInfo (4ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (4723ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1855ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (64ms)
+			SetLoadedEditorAssemblies (61ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (26ms)
+			ProcessInitializeOnLoadAttributes (1198ms)
+			ProcessInitializeOnLoadMethodAttributes (504ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (2ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+DirectoryNotFoundException: Could not find a part of the path "D:\F\0_Room\Unity_3D\0_Unity_Projects\00_Unity_with_C#_Scripting\Unity_C#_Scripting_3D\From_Udemy\Obstacle_Dodger_Game\Obstacle_Dodger\Library\PackageCache\com.unity.visualscripting@1.9.4\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll"
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <8ce0bd04a7a04b4b9395538239d3fdd8>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <8ce0bd04a7a04b4b9395538239d3fdd8>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at Mono.Cecil.ModuleDefinition.GetFileStream (System.String fileName, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00006] in <a6860a9f6366437387ebdc1f225b7fd4>:0 
+  at Mono.Cecil.ModuleDefinition.ReadModule (System.String fileName, Mono.Cecil.ReaderParameters parameters) [0x00008] in <a6860a9f6366437387ebdc1f225b7fd4>:0 
+  at Mono.Cecil.AssemblyDefinition.ReadAssembly (System.String fileName, Mono.Cecil.ReaderParameters parameters) [0x00000] in <a6860a9f6366437387ebdc1f225b7fd4>:0 
+  at UnityEditor.AssemblyValidation.LoadAssemblyDefinitions (System.String[] assemblyPaths, System.String[] searchPaths) [0x00048] in <291e350a1994482698fa28b09c0523cf>:0 
+  at UnityEditor.AssemblyValidation.ValidateAssemblies (System.String[] assemblyPaths, System.Boolean enableLogging) [0x00007] in <291e350a1994482698fa28b09c0523cf>:0 
+
+- Loaded All Assemblies, in 26.286 seconds
+Native extension for WindowsStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in 35.177 seconds
+Domain Reload Profiling: 61170ms
+	BeginReloadAssembly (5032ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (173ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (4ms)
+		CreateAndSetChildDomain (481ms)
+	RebuildCommonClasses (1348ms)
+	RebuildNativeTypeToScriptingClass (435ms)
+	initialDomainReloadingComplete (1502ms)
+	LoadAllAssembliesAndSetupDomain (17653ms)
+		LoadAssemblies (11009ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (9901ms)
+			TypeCache.Refresh (8139ms)
+				TypeCache.ScanAssembly (7540ms)
+			ScanForSourceGeneratedMonoScriptInfo (1322ms)
+			ResolveRequiredComponents (369ms)
+	FinalizeReload (35200ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (24651ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (113ms)
+			SetLoadedEditorAssemblies (298ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (5043ms)
+			ProcessInitializeOnLoadAttributes (18298ms)
+			ProcessInitializeOnLoadMethodAttributes (542ms)
+			AfterProcessingInitializeOnLoad (351ms)
+			EditorAssembliesLoaded (7ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (253ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 2.14 seconds
+Refreshing native plugins compatible for Editor in 127.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3273 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 21 unused Assets / (122.3 KB). Loaded Objects now: 3764.
+Memory consumption went from 131.3 MB to 131.1 MB.
+Total: 82.418000 ms (FindLiveObjects: 1.446300 ms CreateObjectMapping: 3.897700 ms MarkObjects: 76.426600 ms  DeleteObjects: 0.481000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 264141.617604 seconds.
+  path: Assets/Assets/Prefab/00_Lets_Create_Some_Default_Scenes
+  artifactKey: Guid(e21cf54b16186554e97b4e4fe597716b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefab/00_Lets_Create_Some_Default_Scenes using Guid(e21cf54b16186554e97b4e4fe597716b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 2 workers.
+ -> (artifact id: '891a2cfae0effe46fab8d82c884dc8ad') in 0.122105 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.003215 seconds.
+  path: Assets/Assets/Prefab/00_Lets_Create_Some_Default_Scenes/Default_SpawnObjects/Ball_1.prefab
+  artifactKey: Guid(b8a40b7def44e754b867724b5ff45c86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefab/00_Lets_Create_Some_Default_Scenes/Default_SpawnObjects/Ball_1.prefab using Guid(b8a40b7def44e754b867724b5ff45c86) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 2 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 2 workers.
+ -> (artifact id: 'a94a0fc34764ecb3c17da6e4314bcde3') in 3.420570 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.004484 seconds.
+  path: Assets/Assets/Material
+  artifactKey: Guid(5431b57bb1bfc16469ca3272f2f42907) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Material using Guid(5431b57bb1bfc16469ca3272f2f42907) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 2 workers.
+ -> (artifact id: '4f263ed312aae151ff2f1acb6248f8da') in 0.009592 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.007651 seconds.
+  path: Assets/Assets/Prefab/00_Lets_Create_Some_Default_Scenes/Default_Player_and_Enemy/Environment_of_Player_and_Enemy.prefab
+  artifactKey: Guid(e6a65e17b0da81c4d86877f52cc994da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefab/00_Lets_Create_Some_Default_Scenes/Default_Player_and_Enemy/Environment_of_Player_and_Enemy.prefab using Guid(e6a65e17b0da81c4d86877f52cc994da) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 2 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 2 workers.
+ -> (artifact id: '32c15b4e2995a8dd4dac769aab642f6e') in 0.671653 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 56
+========================================================================
+Received Import Request.
+  Time since last request: 0.002380 seconds.
+  path: Assets/Assets/Scripts/Samples/Obstacle_Dodger_Game/Obstacle_Dodger.prefab
+  artifactKey: Guid(f3c647c02ddddf0409a729f5910bb97c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Scripts/Samples/Obstacle_Dodger_Game/Obstacle_Dodger.prefab using Guid(f3c647c02ddddf0409a729f5910bb97c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 2 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 2 workers.
+ -> (artifact id: '3d103e29ad24680af8955b031fd82103') in 0.800592 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 641
+========================================================================
+Received Import Request.
+  Time since last request: 0.001123 seconds.
+  path: Assets/Assets/Scripts/Samples/Obstacle_Dodger_Prefabs/Spinner_Obstacle_1.prefab
+  artifactKey: Guid(417ad754d94ae3e48812f4521a4b94d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Scripts/Samples/Obstacle_Dodger_Prefabs/Spinner_Obstacle_1.prefab using Guid(417ad754d94ae3e48812f4521a4b94d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 2 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 2 workers.
+ -> (artifact id: '5dbd01bcef0a3a3f89841c6c97379297') in 0.193513 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000900 seconds.
+  path: Assets/Assets/Prefab/00_Lets_Create_Some_Default_Scenes/Default_SpawnObjects
+  artifactKey: Guid(efd5541acce46e04087664a48ccab1ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefab/00_Lets_Create_Some_Default_Scenes/Default_SpawnObjects using Guid(efd5541acce46e04087664a48ccab1ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 2 workers.
+ -> (artifact id: '46ff422623646632255985fc8b640f37') in 0.002243 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.001633 seconds.
+  path: Assets/Assets/Prefab/01_Own_Creation_of_Objects/Side_Objects
+  artifactKey: Guid(cdfb61e574922d04aa323f59c2ffa286) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefab/01_Own_Creation_of_Objects/Side_Objects using Guid(cdfb61e574922d04aa323f59c2ffa286) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 2 workers.
+ -> (artifact id: '8e0fbf1b0793047df0e046bc1d2a547c') in 0.006515 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.004442 seconds.
+  path: Assets/Assets/Scripts/Samples/Obstacle_Dodger_Prefabs/Environment_of_ObstacleDodger 1.prefab
+  artifactKey: Guid(bc086f43414724c4e92e6439c01e6375) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Scripts/Samples/Obstacle_Dodger_Prefabs/Environment_of_ObstacleDodger 1.prefab using Guid(bc086f43414724c4e92e6439c01e6375) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 2 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 2 workers.
+ -> (artifact id: 'f7822ef85b3a24fbb7ee4ee1c6560c4e') in 8.762328 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 68
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Assets/Scripts/Samples/Obstacle_Dodger_Prefabs/MoreObstacles.prefab
+  artifactKey: Guid(42e1d7436ed7ea746a2a3edb31f1fddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Scripts/Samples/Obstacle_Dodger_Prefabs/MoreObstacles.prefab using Guid(42e1d7436ed7ea746a2a3edb31f1fddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 2 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 2 workers.
+ -> (artifact id: '8245bab672821ef2764d560d1e1104e1') in 0.608249 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 263
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Assets/Prefab/00_Lets_Create_Some_Default_Scenes/Default_SpawnObjects/Environment_To_Spawn_Ball.prefab
+  artifactKey: Guid(9233860fed94d41409d4ed3cdbbca51c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefab/00_Lets_Create_Some_Default_Scenes/Default_SpawnObjects/Environment_To_Spawn_Ball.prefab using Guid(9233860fed94d41409d4ed3cdbbca51c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 2 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 2 workers.
+ -> (artifact id: '9204153af2ad40d5705e527468a94cc9') in 0.598630 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 51
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/Assets/Prefab/00_Lets_Create_Some_Default_Scenes/Default_Player_and_Enemy/Default_Player_and_Enemy.prefab
+  artifactKey: Guid(a835b0fcd7415444ea36d8a2ee3cf4fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefab/00_Lets_Create_Some_Default_Scenes/Default_Player_and_Enemy/Default_Player_and_Enemy.prefab using Guid(a835b0fcd7415444ea36d8a2ee3cf4fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 2 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 2 workers.
+ -> (artifact id: 'c4f49bc54794d35580adf4eb4009bd0e') in 0.392390 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 25
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Assets/Prefab/00_Lets_Create_Some_Default_Scenes/Default_Player_and_Enemy
+  artifactKey: Guid(571da426e4f4e0b4b8f030515d6c98b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefab/00_Lets_Create_Some_Default_Scenes/Default_Player_and_Enemy using Guid(571da426e4f4e0b4b8f030515d6c98b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 2 workers.
+ -> (artifact id: '573de071b6681ca8a5f9d194f8f7d9b8') in 0.011416 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/Assets/Scripts/Samples/Obstacle_Dodger_Prefabs/Obstacles.prefab
+  artifactKey: Guid(f26a48ba5cde5f241818833fa452e6c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Scripts/Samples/Obstacle_Dodger_Prefabs/Obstacles.prefab using Guid(f26a48ba5cde5f241818833fa452e6c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 2 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 2 workers.
+ -> (artifact id: '2307b39e854450842cd1682985c201fb') in 0.243283 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 69
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Assets/Scenes
+  artifactKey: Guid(f0f7bbe56b210e4439668d630b186ae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Scenes using Guid(f0f7bbe56b210e4439668d630b186ae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 2 workers.
+ -> (artifact id: 'e350871b5f7ae6a70db04ffab782e4c9') in 0.003338 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/Assets/Prefab
+  artifactKey: Guid(4b006b05d11b8f849a1fe2bae530ff6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefab using Guid(4b006b05d11b8f849a1fe2bae530ff6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 2 workers.
+ -> (artifact id: 'b44aa814c4bbe84b2d5c40c6181c6695') in 0.030166 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Assets/Prefab/01_Own_Creation_of_Objects/Side_Objects/Street_Light_Prototype.prefab
+  artifactKey: Guid(68fb3de35a75f9d43af08bfe3b6b392e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Prefab/01_Own_Creation_of_Objects/Side_Objects/Street_Light_Prototype.prefab using Guid(68fb3de35a75f9d43af08bfe3b6b392e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 2 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 2 workers.
+ -> (artifact id: '7645a9fb5192fa6072c57b1a72189b02') in 0.661674 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 34
+========================================================================
+Received Import Request.
+  Time since last request: 31.903206 seconds.
+  path: Assets/Assets/Scripts/Samples/Obstacle_Dodger_Game/Obstacle_Dodger.prefab
+  artifactKey: Guid(f3c647c02ddddf0409a729f5910bb97c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Scripts/Samples/Obstacle_Dodger_Game/Obstacle_Dodger.prefab using Guid(f3c647c02ddddf0409a729f5910bb97c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 2 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 2 workers.
+ -> (artifact id: 'c429ba1137bdd1a128967221e327fe1d') in 1.050685 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 643
+========================================================================
+Received Import Request.
+  Time since last request: 34.811031 seconds.
+  path: Assets/Assets/Scripts/Samples/Obstacle_Dodger_Game/Obstacle_Dodger 1.prefab
+  artifactKey: Guid(397f691693579a34796cfd6ff10406df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Scripts/Samples/Obstacle_Dodger_Game/Obstacle_Dodger 1.prefab using Guid(397f691693579a34796cfd6ff10406df) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 2 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 2 workers.
+ -> (artifact id: '316d357655302b52722cc2be8a929cf3') in 0.186036 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 643
+========================================================================
+Received Import Request.
+  Time since last request: 104.003431 seconds.
+  path: Assets/Assets/Scripts/Samples/Obstacle_Dodger_Game/Obstacle_Dodger.prefab
+  artifactKey: Guid(f3c647c02ddddf0409a729f5910bb97c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Scripts/Samples/Obstacle_Dodger_Game/Obstacle_Dodger.prefab using Guid(f3c647c02ddddf0409a729f5910bb97c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 2 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 2 workers.
+ -> (artifact id: '91ddd8e972b752173247c908eac77863') in 0.608879 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 643
+========================================================================
+Received Import Request.
+  Time since last request: 1.405142 seconds.
+  path: Assets/Assets/Scripts/Samples/Obstacle_Dodger_Game/Obstacle_Dodger.prefab
+  artifactKey: Guid(f3c647c02ddddf0409a729f5910bb97c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Scripts/Samples/Obstacle_Dodger_Game/Obstacle_Dodger.prefab using Guid(f3c647c02ddddf0409a729f5910bb97c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 2 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 2 workers.
+ -> (artifact id: '965c0011478ffb846ebc673e7769bd8b') in 0.736468 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 643
