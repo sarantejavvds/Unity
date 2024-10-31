@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Zombie_Runner\\Zombie_Shooter_FPS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0870FCC2-9772-52C8-1B7D-9AB59D5DB04C}|Assembly-CSharp.csproj|E:\\Unity_C#_Scripting_3D\\From_Udemy\\Zombie_Runner\\Zombie_Shooter_FPS\\assets\\scripts\\hero_death_handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0870FCC2-9772-52C8-1B7D-9AB59D5DB04C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hero_death_handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0870FCC2-9772-52C8-1B7D-9AB59D5DB04C}|Assembly-CSharp.csproj|e:\\unity_c#_scripting_3d\\from_udemy\\zombie_runner\\zombie_shooter_fps\\assets\\scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0870FCC2-9772-52C8-1B7D-9AB59D5DB04C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0870FCC2-9772-52C8-1B7D-9AB59D5DB04C}|Assembly-CSharp.csproj|E:\\Unity_C#_Scripting_3D\\From_Udemy\\Zombie_Runner\\Zombie_Shooter_FPS\\assets\\scripts\\reached_finish_safe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0870FCC2-9772-52C8-1B7D-9AB59D5DB04C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\reached_finish_safe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0870FCC2-9772-52C8-1B7D-9AB59D5DB04C}|Assembly-CSharp.csproj|E:\\Unity_C#_Scripting_3D\\From_Udemy\\Zombie_Runner\\Zombie_Shooter_FPS\\assets\\scripts\\scene_loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0870FCC2-9772-52C8-1B7D-9AB59D5DB04C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scene_loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0870FCC2-9772-52C8-1B7D-9AB59D5DB04C}|Assembly-CSharp.csproj|E:\\Unity_C#_Scripting_3D\\From_Udemy\\Zombie_Runner\\Zombie_Shooter_FPS\\assets\\scripts\\hero_health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0870FCC2-9772-52C8-1B7D-9AB59D5DB04C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hero_health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0870FCC2-9772-52C8-1B7D-9AB59D5DB04C}|Assembly-CSharp.csproj|E:\\Unity_C#_Scripting_3D\\From_Udemy\\Zombie_Runner\\Zombie_Shooter_FPS\\assets\\scripts\\switch_between_weapons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0870FCC2-9772-52C8-1B7D-9AB59D5DB04C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\switch_between_weapons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0870FCC2-9772-52C8-1B7D-9AB59D5DB04C}|Assembly-CSharp.csproj|E:\\Unity_C#_Scripting_3D\\From_Udemy\\Zombie_Runner\\Zombie_Shooter_FPS\\assets\\scripts\\musicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0870FCC2-9772-52C8-1B7D-9AB59D5DB04C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\musicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Scene_Loader.cs",
+              "DocumentMoniker": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Zombie_Runner\\Zombie_Shooter_FPS\\Assets\\Scripts\\Scene_Loader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scene_Loader.cs",
+              "ToolTip": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Zombie_Runner\\Zombie_Shooter_FPS\\Assets\\Scripts\\Scene_Loader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scene_Loader.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA7wBEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T16:27:25.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reached_Finish_Safe.cs",
+              "DocumentMoniker": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Zombie_Runner\\Zombie_Shooter_FPS\\Assets\\Scripts\\Reached_Finish_Safe.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Reached_Finish_Safe.cs",
+              "ToolTip": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Zombie_Runner\\Zombie_Shooter_FPS\\Assets\\Scripts\\Reached_Finish_Safe.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Reached_Finish_Safe.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAmwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T16:27:22.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HERO_Health.cs",
+              "DocumentMoniker": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Zombie_Runner\\Zombie_Shooter_FPS\\Assets\\Scripts\\HERO_Health.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HERO_Health.cs",
+              "ToolTip": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Zombie_Runner\\Zombie_Shooter_FPS\\Assets\\Scripts\\HERO_Health.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HERO_Health.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:45:05.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hero_Death_Handler.cs",
+              "DocumentMoniker": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Zombie_Runner\\Zombie_Shooter_FPS\\Assets\\Scripts\\Hero_Death_Handler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Hero_Death_Handler.cs",
+              "ToolTip": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Zombie_Runner\\Zombie_Shooter_FPS\\Assets\\Scripts\\Hero_Death_Handler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Hero_Death_Handler.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvyEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:41:16.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MusicPlayer.cs",
+              "DocumentMoniker": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Zombie_Runner\\Zombie_Shooter_FPS\\Assets\\Scripts\\MusicPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MusicPlayer.cs",
+              "ToolTip": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Zombie_Runner\\Zombie_Shooter_FPS\\Assets\\Scripts\\MusicPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MusicPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T13:43:31.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Switch_Between_WEAPONs.cs",
+              "DocumentMoniker": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Zombie_Runner\\Zombie_Shooter_FPS\\Assets\\Scripts\\Switch_Between_WEAPONs.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Switch_Between_WEAPONs.cs",
+              "ToolTip": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Zombie_Runner\\Zombie_Shooter_FPS\\Assets\\Scripts\\Switch_Between_WEAPONs.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Switch_Between_WEAPONs.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAUwDUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:02:40.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Zombie_Runner\\Zombie_Shooter_FPS\\Assets\\Scripts\\Weapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon.cs",
+              "ToolTip": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Zombie_Runner\\Zombie_Shooter_FPS\\Assets\\Scripts\\Weapon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T09:03:10.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
