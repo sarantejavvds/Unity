@@ -1,0 +1,104 @@
+Unity Package Manager Diagnostics (v0.4.3)
+============
+Ran 20 checks
+============
+3 succeeded
+13 failed
+2 returned a warning
+2 did not run
+============
+✅ UPM registry reachable (PASS)
+Make an HTTP request to the UPM package registry
+>> HTTP/1.1 200 OK
+>> X-Powered-By: Express
+>> X-Cloud-Trace-Context: ab397a8ec967f68aa5b3d1f22f91ac9b/1622575398734064807
+>> Provider: Genesis
+>> Date: Tue, 03 Sep 2024 14:28:42 GMT
+>> Via: 1.1 google
+>> Transfer-Encoding: chunked
+>> Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+>> Connection: close
+
+⚠️ Ping UPM registry (WARNING)
+Measure the latency of the UPM package registry API
+>> 4 pings made in 9.419 seconds
+>> Average latency: 55.28 ms
+>> Minimum latency: 18.46 ms
+>> Maximum latency: 157.13 ms
+>> Standard deviation: 67.94
+
+⚠️ Ping UPM download (WARNING)
+Measure the latency of the UPM package download endpoint
+>> 4 pings made in 5.572 seconds
+>> Average latency: 585.41 ms
+>> Minimum latency: 42.86 ms
+>> Maximum latency: 2201.88 ms
+>> Standard deviation: 1077.65
+
+✅ UPM registry download speed (PASS)
+Test the Internet connection using the UPM package registry
+>> Measured speed to the UPM registry: 4.19 Kilobits per second
+
+✅ HTTP proxy environment variables (PASS)
+Detect whether proxy-related environment variables are set (HTTP_PROXY, HTTPS_PROXY, ALL_PROXY, NO_PROXY, UNITY_PROXYSERVER, UNITY_NOPROXY)
+>> No proxy support has been configured through environment variables.
+
+❓ System Proxy configuration (UNKNOWN)
+Detect proxy configuration at the system level
+>> The proxy auto configuration feature is not enabled.
+
+❓ UPM IPC connection (UNKNOWN)
+Test connection to UPM via IPC connection
+>> Could not find UPM executable at path 'C:\Program Files\Unity\Hub\Editor\2022.3.44f1\Editor\Data\Resources\PackageManager\Server\UnityPackageManager.exe'
+
+❌ Access Genesis Global API (FAIL)
+Access Genesis Global API
+>> Connection error. This could be because there is no Internet access or the host is inaccessible due to firewall or proxy settings.
+
+❌ Access Core Global API (FAIL)
+Access Core Global API
+>> Connection error. This could be because there is no Internet access or the host is inaccessible due to firewall or proxy settings.
+
+❌ Access ID Portal (FAIL)
+Access ID Portal
+>> Connection error. This could be because there is no Internet access or the host is inaccessible due to firewall or proxy settings.
+
+❌ Access Licensing Server (FAIL)
+Access Licensing Server
+>> Connection error. This could be because there is no Internet access or the host is inaccessible due to firewall or proxy settings.
+
+❌ Access All Releases Page (FAIL)
+access All Releases Page
+>> Connection error. This could be because there is no Internet access or the host is inaccessible due to firewall or proxy settings.
+
+❌ Access Beta Latest Releases Page (FAIL)
+Access Beta Latest Releases Page
+>> Connection error. This could be because there is no Internet access or the host is inaccessible due to firewall or proxy settings.
+
+❌ Access LTS Releases Page (FAIL)
+Access LTS Releases Page
+>> Connection error. This could be because there is no Internet access or the host is inaccessible due to firewall or proxy settings.
+
+❌ Access Unity.com (FAIL)
+Access Unity website
+>> Connection error. This could be because there is no Internet access or the host is inaccessible due to firewall or proxy settings.
+
+❌ Access AWS Prod Resources (FAIL)
+Access AWS Prod Resources
+>> Connection error. This could be because there is no Internet access or the host is inaccessible due to firewall or proxy settings.
+
+❌ Ping latest editor URL (FAIL)
+Measure the latency of the latest editor download endpoint
+>> Connection error. This could be because there is no Internet access or the host is inaccessible due to firewall or proxy settings.
+
+❌ Partial download of latest editor (FAIL)
+Test the downloadability of the latest editor
+>> Connection error. This could be because there is no Internet access or the host is inaccessible due to firewall or proxy settings.
+
+❌ HTTP timing test with the latest editor download URL (FAIL)
+Test the HTTP timings with the latest editor download URL
+>> Connection error. This could be because there is no Internet access or the host is inaccessible due to firewall or proxy settings.
+
+❌ Access Unity Services Endpoints (FAIL)
+Access Unity Services Endpoints
+>> Not all services are reachable

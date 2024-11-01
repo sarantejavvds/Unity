@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity_3D\\00_UnityProjects_with_C#_Scripting\\Unity_C#_Scripting_3D\\From_Udemy\\Rocket(Project_Booster)\\Project_Boost_of_Rocket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC996B0-FA5B-7B1D-A9CF-9F7601F49928}|Assembly-CSharp.csproj|d:\\unity_3d\\00_unityprojects_with_c#_scripting\\unity_c#_scripting_3d\\from_udemy\\rocket(project_booster)\\project_boost_of_rocket\\assets\\assets\\scripts\\samples\\rocket_project_boost\\rocket_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC996B0-FA5B-7B1D-A9CF-9F7601F49928}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\samples\\rocket_project_boost\\rocket_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC996B0-FA5B-7B1D-A9CF-9F7601F49928}|Assembly-CSharp.csproj|d:\\unity_3d\\00_unityprojects_with_c#_scripting\\unity_c#_scripting_3d\\from_udemy\\rocket(project_booster)\\project_boost_of_rocket\\assets\\assets\\scripts\\samples\\rocket_project_boost\\collision_handling_using_switchcases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC996B0-FA5B-7B1D-A9CF-9F7601F49928}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\samples\\rocket_project_boost\\collision_handling_using_switchcases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC996B0-FA5B-7B1D-A9CF-9F7601F49928}|Assembly-CSharp.csproj|d:\\unity_3d\\00_unityprojects_with_c#_scripting\\unity_c#_scripting_3d\\from_udemy\\rocket(project_booster)\\project_boost_of_rocket\\assets\\assets\\scripts\\samples\\rocket_project_boost\\application_quitter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC996B0-FA5B-7B1D-A9CF-9F7601F49928}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\samples\\rocket_project_boost\\application_quitter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC996B0-FA5B-7B1D-A9CF-9F7601F49928}|Assembly-CSharp.csproj|d:\\unity_3d\\00_unityprojects_with_c#_scripting\\unity_c#_scripting_3d\\from_udemy\\rocket(project_booster)\\project_boost_of_rocket\\assets\\assets\\scripts\\samples\\rocket_project_boost\\oscillator_of_objects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC996B0-FA5B-7B1D-A9CF-9F7601F49928}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\samples\\rocket_project_boost\\oscillator_of_objects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rocket_Movement.cs",
+              "DocumentMoniker": "D:\\Unity_3D\\00_UnityProjects_with_C#_Scripting\\Unity_C#_Scripting_3D\\From_Udemy\\Rocket(Project_Booster)\\Project_Boost_of_Rocket\\Assets\\Assets\\Scripts\\Samples\\Rocket_Project_Boost\\Rocket_Movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\Samples\\Rocket_Project_Boost\\Rocket_Movement.cs",
+              "ToolTip": "D:\\Unity_3D\\00_UnityProjects_with_C#_Scripting\\Unity_C#_Scripting_3D\\From_Udemy\\Rocket(Project_Booster)\\Project_Boost_of_Rocket\\Assets\\Assets\\Scripts\\Samples\\Rocket_Project_Boost\\Rocket_Movement.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\Samples\\Rocket_Project_Boost\\Rocket_Movement.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAUwGUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T08:13:09.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Oscillator_of_Objects.cs",
+              "DocumentMoniker": "D:\\Unity_3D\\00_UnityProjects_with_C#_Scripting\\Unity_C#_Scripting_3D\\From_Udemy\\Rocket(Project_Booster)\\Project_Boost_of_Rocket\\Assets\\Assets\\Scripts\\Samples\\Rocket_Project_Boost\\Oscillator_of_Objects.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\Samples\\Rocket_Project_Boost\\Oscillator_of_Objects.cs",
+              "ToolTip": "D:\\Unity_3D\\00_UnityProjects_with_C#_Scripting\\Unity_C#_Scripting_3D\\From_Udemy\\Rocket(Project_Booster)\\Project_Boost_of_Rocket\\Assets\\Assets\\Scripts\\Samples\\Rocket_Project_Boost\\Oscillator_of_Objects.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\Samples\\Rocket_Project_Boost\\Oscillator_of_Objects.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T07:39:17.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Application_Quitter.cs",
+              "DocumentMoniker": "D:\\Unity_3D\\00_UnityProjects_with_C#_Scripting\\Unity_C#_Scripting_3D\\From_Udemy\\Rocket(Project_Booster)\\Project_Boost_of_Rocket\\Assets\\Assets\\Scripts\\Samples\\Rocket_Project_Boost\\Application_Quitter.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\Samples\\Rocket_Project_Boost\\Application_Quitter.cs",
+              "ToolTip": "D:\\Unity_3D\\00_UnityProjects_with_C#_Scripting\\Unity_C#_Scripting_3D\\From_Udemy\\Rocket(Project_Booster)\\Project_Boost_of_Rocket\\Assets\\Assets\\Scripts\\Samples\\Rocket_Project_Boost\\Application_Quitter.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\Samples\\Rocket_Project_Boost\\Application_Quitter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T07:38:44.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Collision_Handling_Using_SwitchCases.cs",
+              "DocumentMoniker": "D:\\Unity_3D\\00_UnityProjects_with_C#_Scripting\\Unity_C#_Scripting_3D\\From_Udemy\\Rocket(Project_Booster)\\Project_Boost_of_Rocket\\Assets\\Assets\\Scripts\\Samples\\Rocket_Project_Boost\\Collision_Handling_Using_SwitchCases.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\Samples\\Rocket_Project_Boost\\Collision_Handling_Using_SwitchCases.cs",
+              "ToolTip": "D:\\Unity_3D\\00_UnityProjects_with_C#_Scripting\\Unity_C#_Scripting_3D\\From_Udemy\\Rocket(Project_Booster)\\Project_Boost_of_Rocket\\Assets\\Assets\\Scripts\\Samples\\Rocket_Project_Boost\\Collision_Handling_Using_SwitchCases.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\Samples\\Rocket_Project_Boost\\Collision_Handling_Using_SwitchCases.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAUwFkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T07:34:21.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
