@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Defend_Castle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10C4F678-6ED0-F624-CF15-23E4B574096D}|Assembly-CSharp.csproj|E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Defend_Castle\\assets\\scripts\\coordinators_editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C4F678-6ED0-F624-CF15-23E4B574096D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coordinators_editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C4F678-6ED0-F624-CF15-23E4B574096D}|Assembly-CSharp.csproj|E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Defend_Castle\\assets\\scripts\\object_pool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C4F678-6ED0-F624-CF15-23E4B574096D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\object_pool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C4F678-6ED0-F624-CF15-23E4B574096D}|Assembly-CSharp.csproj|E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Defend_Castle\\assets\\scripts\\enemy_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C4F678-6ED0-F624-CF15-23E4B574096D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C4F678-6ED0-F624-CF15-23E4B574096D}|Assembly-CSharp.csproj|e:\\unity_c#_scripting_3d\\from_udemy\\realm_rush\\defend_castle\\assets\\scripts\\tower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C4F678-6ED0-F624-CF15-23E4B574096D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C4F678-6ED0-F624-CF15-23E4B574096D}|Assembly-CSharp.csproj|E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Defend_Castle\\assets\\scripts\\waypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C4F678-6ED0-F624-CF15-23E4B574096D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\waypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C4F678-6ED0-F624-CF15-23E4B574096D}|Assembly-CSharp.csproj|E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Defend_Castle\\assets\\scripts\\target_locater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C4F678-6ED0-F624-CF15-23E4B574096D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\target_locater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C4F678-6ED0-F624-CF15-23E4B574096D}|Assembly-CSharp.csproj|E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Defend_Castle\\assets\\scripts\\enemy_health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C4F678-6ED0-F624-CF15-23E4B574096D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy_health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C4F678-6ED0-F624-CF15-23E4B574096D}|Assembly-CSharp.csproj|E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Defend_Castle\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C4F678-6ED0-F624-CF15-23E4B574096D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C4F678-6ED0-F624-CF15-23E4B574096D}|Assembly-CSharp.csproj|E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Defend_Castle\\assets\\scripts\\treasure_bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C4F678-6ED0-F624-CF15-23E4B574096D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\treasure_bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TOWER.cs",
+              "DocumentMoniker": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Defend_Castle\\Assets\\Scripts\\TOWER.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TOWER.cs",
+              "ToolTip": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Defend_Castle\\Assets\\Scripts\\TOWER.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TOWER.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:40:52.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ENEMY.cs",
+              "DocumentMoniker": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Defend_Castle\\Assets\\Scripts\\ENEMY.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ENEMY.cs",
+              "ToolTip": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Defend_Castle\\Assets\\Scripts\\ENEMY.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ENEMY.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvykAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:48:30.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enemy_Health.cs",
+              "DocumentMoniker": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Defend_Castle\\Assets\\Scripts\\Enemy_Health.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy_Health.cs",
+              "ToolTip": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Defend_Castle\\Assets\\Scripts\\Enemy_Health.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy_Health.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:58:29.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Target_Locater.cs",
+              "DocumentMoniker": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Defend_Castle\\Assets\\Scripts\\Target_Locater.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Target_Locater.cs",
+              "ToolTip": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Defend_Castle\\Assets\\Scripts\\Target_Locater.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Target_Locater.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:11:34.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WayPoint.cs",
+              "DocumentMoniker": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Defend_Castle\\Assets\\Scripts\\WayPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WayPoint.cs",
+              "ToolTip": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Defend_Castle\\Assets\\Scripts\\WayPoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WayPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T09:59:49.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enemy_Movement.cs",
+              "DocumentMoniker": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Defend_Castle\\Assets\\Scripts\\Enemy_Movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy_Movement.cs",
+              "ToolTip": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Defend_Castle\\Assets\\Scripts\\Enemy_Movement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy_Movement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T09:56:48.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Coordinators_Editor.cs",
+              "DocumentMoniker": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Defend_Castle\\Assets\\Scripts\\Coordinators_Editor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Coordinators_Editor.cs",
+              "ToolTip": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Defend_Castle\\Assets\\Scripts\\Coordinators_Editor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Coordinators_Editor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T09:51:22.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Treasure_Bank.cs",
+              "DocumentMoniker": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Defend_Castle\\Assets\\Scripts\\Treasure_Bank.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Treasure_Bank.cs",
+              "ToolTip": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Defend_Castle\\Assets\\Scripts\\Treasure_Bank.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Treasure_Bank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:20:15.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Object_Pool.cs",
+              "DocumentMoniker": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Defend_Castle\\Assets\\Scripts\\Object_Pool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Object_Pool.cs",
+              "ToolTip": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Defend_Castle\\Assets\\Scripts\\Object_Pool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Object_Pool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:03:59.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

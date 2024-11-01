@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Castle_Defense\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{265230F2-348B-EDF8-8949-A3F0004C10D5}|Assembly-CSharp.csproj|e:\\unity_c#_scripting_3d\\from_udemy\\realm_rush\\castle_defense\\assets\\assets\\scripts\\pathfinding\\quitapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265230F2-348B-EDF8-8949-A3F0004C10D5}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\pathfinding\\quitapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265230F2-348B-EDF8-8949-A3F0004C10D5}|Assembly-CSharp.csproj|E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Castle_Defense\\assets\\assets\\scripts\\pathfinding\\reach_target_for_next_level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265230F2-348B-EDF8-8949-A3F0004C10D5}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\pathfinding\\reach_target_for_next_level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265230F2-348B-EDF8-8949-A3F0004C10D5}|Assembly-CSharp.csproj|E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Castle_Defense\\assets\\assets\\scripts\\previous_scripts\\tower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265230F2-348B-EDF8-8949-A3F0004C10D5}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\previous_scripts\\tower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265230F2-348B-EDF8-8949-A3F0004C10D5}|Assembly-CSharp.csproj|E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Castle_Defense\\assets\\assets\\scripts\\previous_scripts\\object_pool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265230F2-348B-EDF8-8949-A3F0004C10D5}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\previous_scripts\\object_pool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265230F2-348B-EDF8-8949-A3F0004C10D5}|Assembly-CSharp.csproj|E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Castle_Defense\\assets\\assets\\scripts\\previous_scripts\\treasure_bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265230F2-348B-EDF8-8949-A3F0004C10D5}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\previous_scripts\\treasure_bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265230F2-348B-EDF8-8949-A3F0004C10D5}|Assembly-CSharp.csproj|E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Castle_Defense\\assets\\assets\\scripts\\pathfinding\\musicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265230F2-348B-EDF8-8949-A3F0004C10D5}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\pathfinding\\musicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265230F2-348B-EDF8-8949-A3F0004C10D5}|Assembly-CSharp.csproj|E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Castle_Defense\\assets\\assets\\scripts\\previous_scripts\\waypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265230F2-348B-EDF8-8949-A3F0004C10D5}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\previous_scripts\\waypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265230F2-348B-EDF8-8949-A3F0004C10D5}|Assembly-CSharp.csproj|E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Castle_Defense\\assets\\assets\\scripts\\previous_scripts\\enemy_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265230F2-348B-EDF8-8949-A3F0004C10D5}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\previous_scripts\\enemy_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265230F2-348B-EDF8-8949-A3F0004C10D5}|Assembly-CSharp.csproj|E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Castle_Defense\\assets\\assets\\scripts\\previous_scripts\\coordinators_editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265230F2-348B-EDF8-8949-A3F0004C10D5}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\previous_scripts\\coordinators_editor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265230F2-348B-EDF8-8949-A3F0004C10D5}|Assembly-CSharp.csproj|E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Castle_Defense\\assets\\assets\\scripts\\pathfinding\\grid_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265230F2-348B-EDF8-8949-A3F0004C10D5}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\pathfinding\\grid_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265230F2-348B-EDF8-8949-A3F0004C10D5}|Assembly-CSharp.csproj|E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Castle_Defense\\assets\\assets\\scripts\\pathfinding\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265230F2-348B-EDF8-8949-A3F0004C10D5}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\pathfinding\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265230F2-348B-EDF8-8949-A3F0004C10D5}|Assembly-CSharp.csproj|E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Castle_Defense\\assets\\assets\\scripts\\pathfinding\\path_finder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265230F2-348B-EDF8-8949-A3F0004C10D5}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\pathfinding\\path_finder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuitApp.cs",
+              "DocumentMoniker": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Castle_Defense\\Assets\\Assets\\Scripts\\PathFinding\\QuitApp.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\PathFinding\\QuitApp.cs",
+              "ToolTip": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Castle_Defense\\Assets\\Assets\\Scripts\\PathFinding\\QuitApp.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\PathFinding\\QuitApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:18:50.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Treasure_Bank.cs",
+              "DocumentMoniker": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Castle_Defense\\Assets\\Assets\\Scripts\\Previous_Scripts\\Treasure_Bank.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\Previous_Scripts\\Treasure_Bank.cs",
+              "ToolTip": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Castle_Defense\\Assets\\Assets\\Scripts\\Previous_Scripts\\Treasure_Bank.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\Previous_Scripts\\Treasure_Bank.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA7wC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T17:35:20.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MusicPlayer.cs",
+              "DocumentMoniker": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Castle_Defense\\Assets\\Assets\\Scripts\\PathFinding\\MusicPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\PathFinding\\MusicPlayer.cs",
+              "ToolTip": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Castle_Defense\\Assets\\Assets\\Scripts\\PathFinding\\MusicPlayer.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\PathFinding\\MusicPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T16:33:05.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reach_Target_for_Next_Level.cs",
+              "DocumentMoniker": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Castle_Defense\\Assets\\Assets\\Scripts\\PathFinding\\Reach_Target_for_Next_Level.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\PathFinding\\Reach_Target_for_Next_Level.cs",
+              "ToolTip": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Castle_Defense\\Assets\\Assets\\Scripts\\PathFinding\\Reach_Target_for_Next_Level.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\PathFinding\\Reach_Target_for_Next_Level.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwCEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T13:05:12.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Object_Pool.cs",
+              "DocumentMoniker": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Castle_Defense\\Assets\\Assets\\Scripts\\Previous_Scripts\\Object_Pool.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\Previous_Scripts\\Object_Pool.cs",
+              "ToolTip": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Castle_Defense\\Assets\\Assets\\Scripts\\Previous_Scripts\\Object_Pool.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\Previous_Scripts\\Object_Pool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T18:02:16.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TOWER.cs",
+              "DocumentMoniker": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Castle_Defense\\Assets\\Assets\\Scripts\\Previous_Scripts\\TOWER.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\Previous_Scripts\\TOWER.cs",
+              "ToolTip": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Castle_Defense\\Assets\\Assets\\Scripts\\Previous_Scripts\\TOWER.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\Previous_Scripts\\TOWER.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAywC4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T14:58:27.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enemy_Movement.cs",
+              "DocumentMoniker": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Castle_Defense\\Assets\\Assets\\Scripts\\Previous_Scripts\\Enemy_Movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\Previous_Scripts\\Enemy_Movement.cs",
+              "ToolTip": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Castle_Defense\\Assets\\Assets\\Scripts\\Previous_Scripts\\Enemy_Movement.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\Previous_Scripts\\Enemy_Movement.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAcwF0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:37:33.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WayPoint.cs",
+              "DocumentMoniker": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Castle_Defense\\Assets\\Assets\\Scripts\\Previous_Scripts\\WayPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\Previous_Scripts\\WayPoint.cs",
+              "ToolTip": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Castle_Defense\\Assets\\Assets\\Scripts\\Previous_Scripts\\WayPoint.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\Previous_Scripts\\WayPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T12:09:24.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Path_Finder.cs",
+              "DocumentMoniker": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Castle_Defense\\Assets\\Assets\\Scripts\\PathFinding\\Path_Finder.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\PathFinding\\Path_Finder.cs",
+              "ToolTip": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Castle_Defense\\Assets\\Assets\\Scripts\\PathFinding\\Path_Finder.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\PathFinding\\Path_Finder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T09:43:45.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Coordinators_Editor.cs",
+              "DocumentMoniker": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Castle_Defense\\Assets\\Assets\\Scripts\\Previous_Scripts\\Coordinators_Editor.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\Previous_Scripts\\Coordinators_Editor.cs",
+              "ToolTip": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Castle_Defense\\Assets\\Assets\\Scripts\\Previous_Scripts\\Coordinators_Editor.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\Previous_Scripts\\Coordinators_Editor.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAIwF0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T08:41:10.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Grid_Manager.cs",
+              "DocumentMoniker": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Castle_Defense\\Assets\\Assets\\Scripts\\PathFinding\\Grid_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\PathFinding\\Grid_Manager.cs",
+              "ToolTip": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Castle_Defense\\Assets\\Assets\\Scripts\\PathFinding\\Grid_Manager.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\PathFinding\\Grid_Manager.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T06:07:07.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Node.cs",
+              "DocumentMoniker": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Castle_Defense\\Assets\\Assets\\Scripts\\PathFinding\\Node.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\PathFinding\\Node.cs",
+              "ToolTip": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Realm_Rush\\Castle_Defense\\Assets\\Assets\\Scripts\\PathFinding\\Node.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\PathFinding\\Node.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T06:07:03.769Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
