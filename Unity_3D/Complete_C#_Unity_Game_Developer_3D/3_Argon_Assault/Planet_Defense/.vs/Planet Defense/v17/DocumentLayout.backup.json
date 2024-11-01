@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Argon_Assault\\Planet Defense\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1926C868-5DCC-C0EA-7E45-CD7A7CB61EC2}|Assembly-CSharp.csproj|e:\\unity_c#_scripting_3d\\from_udemy\\argon_assault\\planet defense\\assets\\scripts\\musicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1926C868-5DCC-C0EA-7E45-CD7A7CB61EC2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\musicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1926C868-5DCC-C0EA-7E45-CD7A7CB61EC2}|Assembly-CSharp.csproj|e:\\unity_c#_scripting_3d\\from_udemy\\argon_assault\\planet defense\\assets\\scripts\\enemy_ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1926C868-5DCC-C0EA-7E45-CD7A7CB61EC2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy_ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1926C868-5DCC-C0EA-7E45-CD7A7CB61EC2}|Assembly-CSharp.csproj|E:\\Unity_C#_Scripting_3D\\From_Udemy\\Argon_Assault\\Planet Defense\\assets\\scripts\\self_destruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1926C868-5DCC-C0EA-7E45-CD7A7CB61EC2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\self_destruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1926C868-5DCC-C0EA-7E45-CD7A7CB61EC2}|Assembly-CSharp.csproj|E:\\Unity_C#_Scripting_3D\\From_Udemy\\Argon_Assault\\Planet Defense\\assets\\scripts\\scoreboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1926C868-5DCC-C0EA-7E45-CD7A7CB61EC2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoreboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1926C868-5DCC-C0EA-7E45-CD7A7CB61EC2}|Assembly-CSharp.csproj|E:\\Unity_C#_Scripting_3D\\From_Udemy\\Argon_Assault\\Planet Defense\\assets\\scripts\\collision_by_player_ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1926C868-5DCC-C0EA-7E45-CD7A7CB61EC2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collision_by_player_ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1926C868-5DCC-C0EA-7E45-CD7A7CB61EC2}|Assembly-CSharp.csproj|E:\\Unity_C#_Scripting_3D\\From_Udemy\\Argon_Assault\\Planet Defense\\assets\\scripts\\hero_ship_controls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1926C868-5DCC-C0EA-7E45-CD7A7CB61EC2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hero_ship_controls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1926C868-5DCC-C0EA-7E45-CD7A7CB61EC2}|Assembly-CSharp.csproj|E:\\Unity_C#_Scripting_3D\\From_Udemy\\Argon_Assault\\Planet Defense\\assets\\assets\\scripts\\my_scripts_for_3d\\game_level_restarts\\to_make_game_scene_reload_or_nextlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1926C868-5DCC-C0EA-7E45-CD7A7CB61EC2}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\my_scripts_for_3d\\game_level_restarts\\to_make_game_scene_reload_or_nextlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MusicPlayer.cs",
+              "DocumentMoniker": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Argon_Assault\\Planet Defense\\Assets\\Scripts\\MusicPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MusicPlayer.cs",
+              "ToolTip": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Argon_Assault\\Planet Defense\\Assets\\Scripts\\MusicPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MusicPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T17:14:52.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Self_Destruct.cs",
+              "DocumentMoniker": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Argon_Assault\\Planet Defense\\Assets\\Scripts\\Self_Destruct.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Self_Destruct.cs",
+              "ToolTip": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Argon_Assault\\Planet Defense\\Assets\\Scripts\\Self_Destruct.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Self_Destruct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T05:31:03.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enemy_Ship.cs",
+              "DocumentMoniker": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Argon_Assault\\Planet Defense\\Assets\\Scripts\\Enemy_Ship.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy_Ship.cs",
+              "ToolTip": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Argon_Assault\\Planet Defense\\Assets\\Scripts\\Enemy_Ship.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy_Ship.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAEAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T05:24:41.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScoreBoard.cs",
+              "DocumentMoniker": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Argon_Assault\\Planet Defense\\Assets\\Scripts\\ScoreBoard.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreBoard.cs",
+              "ToolTip": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Argon_Assault\\Planet Defense\\Assets\\Scripts\\ScoreBoard.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreBoard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T14:27:39.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Collision_by_Player_Ship.cs",
+              "DocumentMoniker": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Argon_Assault\\Planet Defense\\Assets\\Scripts\\Collision_by_Player_Ship.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Collision_by_Player_Ship.cs",
+              "ToolTip": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Argon_Assault\\Planet Defense\\Assets\\Scripts\\Collision_by_Player_Ship.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Collision_by_Player_Ship.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAADwvzYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T09:55:02.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "To_Make_Game_Scene_Reload_or_NextLevel.cs",
+              "DocumentMoniker": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Argon_Assault\\Planet Defense\\Assets\\Assets\\Scripts\\My_Scripts_for_3D\\Game_Level_Restarts\\To_Make_Game_Scene_Reload_or_NextLevel.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\My_Scripts_for_3D\\Game_Level_Restarts\\To_Make_Game_Scene_Reload_or_NextLevel.cs",
+              "ToolTip": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Argon_Assault\\Planet Defense\\Assets\\Assets\\Scripts\\My_Scripts_for_3D\\Game_Level_Restarts\\To_Make_Game_Scene_Reload_or_NextLevel.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\My_Scripts_for_3D\\Game_Level_Restarts\\To_Make_Game_Scene_Reload_or_NextLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T12:27:10.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HERO_Ship_Controls.cs",
+              "DocumentMoniker": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Argon_Assault\\Planet Defense\\Assets\\Scripts\\HERO_Ship_Controls.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HERO_Ship_Controls.cs",
+              "ToolTip": "E:\\Unity_C#_Scripting_3D\\From_Udemy\\Argon_Assault\\Planet Defense\\Assets\\Scripts\\HERO_Ship_Controls.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HERO_Ship_Controls.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAADwv2MAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T11:11:06.647Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

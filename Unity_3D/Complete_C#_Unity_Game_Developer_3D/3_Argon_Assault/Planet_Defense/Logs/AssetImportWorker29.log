@@ -1,0 +1,19 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.41f1 (0f988161febf) revision 1022081'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.18363) 64bit Professional' Language: 'en' Physical Memory: 3981 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.41f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker29
+-projectPath
+E:/Unity_C#_Scripting_3D/From_Udemy/Argon_Assault/Planet Defense
+-logFile
+Logs/AssetImportWorker29.log
+-srvPort
+51277
+Successfully changed project path to: E:/Unity_C#_Scripting_3D/From_Udemy/Argon_Assault/Planet Defense
